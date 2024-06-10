@@ -8,9 +8,9 @@
   --background-column: #cacaca; /* Background for Apps Container */
   --background-settings: #d5d5d5; /* Settings Card Background */
   --background-buttons: #ccc; /* Button Background Color */
-  --background-accent: #bbb; /* Accent Color for Tabs */
-  --background-slider: #b3b0af; /* Active Slider Background Color */
-  --slider-accent: #333; /* Slider Background Color */
+  --tab-active-background: #bbb; /* Accent Color for Tabs */
+  --slider-active-background: #b3b0af; /* Active Slider Background Color */
+  --slider-inactive-background: #333; /* Slider Background Color */
   --nav-image: url("/./assets/media/favicon/main-inverted.png"); /* Nav Logo */
   /* Text Variables */
   --text-primary: #000; /* Primary Text Color */
