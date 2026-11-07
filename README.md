@@ -1,3 +1,7 @@
+![Interstellar banner: a violet nebula field in void black space, a small ship shape of pure light on a teal trail flying into a glowing teal ring portal, bright stars scattered beyond it](banner.png)
+
+<p align="center"><img src="logo.png" alt="Interstellar logo: a bright white star with long spikes at the centre of a violet nebula ring, a glowing teal portal ring circling it like a gateway, void black space" width="200"></p>
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
     <p>Serving over 8+ million users since 2023.<p>
